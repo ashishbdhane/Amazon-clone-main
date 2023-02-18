@@ -20,9 +20,9 @@ const Navbar = () => {
           />
           <div className="namepos">
             <div style={{ color: "#d3d3d3", fontSize: "1vw" }}>
-              Deliver to Dron
+              Deliver to Ashish
             </div>
-            <div style={{ fontWeight: "bold" }}>Tumsar 441912</div>
+            <div style={{ fontWeight: "bold" }}>Panvel 410206</div>
           </div>
         </div>
         <div className="searchbar">
@@ -41,7 +41,7 @@ const Navbar = () => {
 
         <div className="account">
           <div className="accountsmallhead">
-            <div className="list">Hello dron</div>
+            <div className="list">Hello Ashish</div>
             <div style={{ fontWeight: "bold" }}>Accounts &amp; lists</div>
           </div>
           <ArrowDropDownOutlinedIcon style={{ color: "#d3d3d3" }} />
@@ -93,7 +93,7 @@ const Navbar = () => {
                       }}
                       className="name"
                     >
-                      Hello , Dron
+                      Hello , Ashish
                     </div>
                   </div>
                   <div className="design"></div>
