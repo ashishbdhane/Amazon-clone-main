@@ -46,7 +46,7 @@ const Navbar = () => {
           </div>
           <ArrowDropDownOutlinedIcon style={{ color: "#d3d3d3" }} />
         </div>
-        <div className="returnandoders">Returns &amp; Oders</div>
+        <div className="returnandoders">Returns &amp; Orders</div>
         <div className="cart">
           <ShoppingCartIcon style={{ fontSize: "3vw" }} />
           <div

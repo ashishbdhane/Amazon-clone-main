@@ -25,9 +25,9 @@
      width: 9vw;
       align-items: center;
 }
-.position:hover{
+/* .position:hover{
     border: 1px solid white;
-}
+} */
 .searchbar{
     display: flex;
     width: 50%;
@@ -75,22 +75,19 @@
      align-items: center;
      align-content: center;
 }
-.account:hover{
+/* .account:hover{
      border: 1px solid white;
-}
+} */
 .returnandoders{
     color: white;
      cursor: pointer;
      width: 4vw;
-     height: 3vw;
+     height: 2vw;
      display: flex;
-     justify-content: center;
-     padding:0.3vw 0vw;
-   
     }
- .returnandoders:hover{
+ /* .returnandoders:hover{
         border: 1px solid white;
-}
+} */
 .cart{
     display: flex;
     color: white;
@@ -101,9 +98,9 @@
      justify-content: center;
    
 }
-.cart:hover{
+/* .cart:hover{
        border: 1px solid white;
-}
+} */
 .lowernavbar{
     height: 1.5vw;
     background:rgb(44, 43, 43);
@@ -136,9 +133,9 @@
     height: 1.7vw;
     align-items: center;
 }
-.accesorie:hover{
+/* .accesorie:hover{
     border: 1px solid white;
-}
+} */
 /* body
 {
   margin: 0;
@@ -263,11 +260,6 @@
   transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0);
 }
 
-#menu li
-{
-  /* padding: 10px 0;
-  font-size: 22px; */
-}
 
 /*
  * And let's slide it in from the left
